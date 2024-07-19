@@ -17,6 +17,7 @@
 
 body {
     background-color: var(--Yellow);
+    padding: 0 8px;
     height: 100vh;
     display: flex;
     flex-direction: column;
